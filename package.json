@@ -1,0 +1,16 @@
+{
+  "name": "aigenerate",
+  "version": "1.0.0",
+  "description": "a bard content generated content",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "charles madhuku",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
